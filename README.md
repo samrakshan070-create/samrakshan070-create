@@ -6,4 +6,4 @@ Building intelligent systems: distributed AI infra, hardware-software co-design.
 
 🔭 Current project: [https://github.com/samrakshan070-create/Coremesh-ai](link to repo) – smart routing for inference
 🌱 Learning: distributed systems, AI infrastructure, FPGA basics
-📫 How to reach me: [Instagram/Twitter/LinkedIn links]
+📫 How to reach me: [ https://www.linkedin.com/in/samrakshan-rijal-36a229241/https://www.instagram.com/samrakshan.builds/]
